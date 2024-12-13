@@ -31,7 +31,11 @@ This project involves analyzing a retail sales database using SQL. The primary o
 
 
 
-https://github.com/user-attachments/assets/ac415acd-0eae-4fc4-a74e-114199dcee98
+# DEMO POWER BI REPORT
+
+
+![Uploading retail_sales_report_demo_video_adobe.gif…]()
+
 
 
 
